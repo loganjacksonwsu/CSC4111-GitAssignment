@@ -1,3 +1,3 @@
-# CSC4111-GitAssignment
+# GitHub and git conflict
 Name: Logan Jackson
 Access ID: gi2680
